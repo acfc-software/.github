@@ -9,5 +9,5 @@
 - API for translating cat meows - In validation
 
 
-### PT-BR
-[README PT-BR](README-PT-BR.md)
+#### Other languages
+[README Em Português do Brasil](README-PT-br)
