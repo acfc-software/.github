@@ -1,13 +1,13 @@
 # ACFC Software
-## Software company focused on the automation of calculations, repetitive tasks and analytics.
+## Empresa de software voltada para a automação de calculos, tarefas repetitivas e analítica.
 
-### Current jobs
-- Services marketplace app in the Netherlands - In validation
-- Archive.org downloader and scrapper - PoC and Hobby Project
-- Generator of spreadsheets in excel based on a template created by the user - In validation
-- API interconnection between JIRA and Todoist - In validation
-- API for translating cat meows - In validation
+### Trabalhos atuais
+- App de marketplace de serviços na Holanda - Em validação
+- Downloader e scrapper do archive.org - PoC e Hobby Project
+- Gerador de planilhas em excel com base em um template criado pelo usuário - Em validação
+- API de interligação entre JIRA e Todoist - Em validação
+- API para tradução de miados de gato - Em validação
 
 
 #### Other languages
-[README Em Português do Brasil](README-PT-br.md)
+[README in English](README.md)
